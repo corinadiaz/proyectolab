@@ -1,0 +1,4 @@
+# proyectolab
+# Reactivos 
+# oligos
+# cepas
